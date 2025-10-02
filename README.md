@@ -1,1 +1,1 @@
-# Beautiful-Days-at-the-Movies-algo
+# Beautiful-Days-at-the-Movies-algo This program counts the number of beautiful days between day i and day j. A day is beautiful if the absolute difference between the day number and its reverse is divisible by k.
